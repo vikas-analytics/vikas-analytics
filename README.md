@@ -3,7 +3,7 @@
 # Hi, I'm Vikas Chaurasiya 👋
 ### Aspiring Data Analyst | SQL · Python · Power BI · Excel
 
-<a href="https://vikas-analytics.github.io/portfolio/">
+<a href="https://vikas-analytics.github.io/vikas-analytics/">
   <img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-2E5FA3?style=for-the-badge&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
