@@ -55,6 +55,7 @@ I'm a final-year Electronics & Telecommunication Engineering student turned aspi
 | **Music Store Sales Analysis** | SQL | Business insights using joins and aggregations |
 | **ICC CWC 2023 Performance Dashboard** | Excel | Interactive Pivot Table dashboard for tournament data |
 
+
 🔗 See full write-ups on my [**Portfolio Website**](https://vikas-analytics.github.io/vikas-analytics/)
 
 ---
