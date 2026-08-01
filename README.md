@@ -9,7 +9,7 @@
 </a>
 &nbsp;
 <a href="https://vikas-analytics.github.io/portfolio/resume.pdf">
-  <img src="https://img.shields.io/badge/📄_DOWNLOAD_RESUME-1F2A44?style=for-the-badge&logoColor=white" alt="Resume" />
+  <img src=["https://img.shields.io/badge/📄_DOWNLOAD_RESUME-1F2A44?style=for-the-badge&logoColor=white" alt="Resume" /](https://github.com/vikas-analytics/vikas-analytics/blob/main/Vikas_Chaurasiya_Resume.pdf)>
 </a>
 
 </div>
