@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-2E5FA3?style=for-the-badge&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
-<a href=["https://vikas-analytics.github.io/portfolio/"](https://vikas-analytics.github.io/vikas-analytics/)
+<a href="https://vikas-analytics.github.io/portfolio/resume.pdf">
   <img src="https://img.shields.io/badge/📄_DOWNLOAD_RESUME-1F2A44?style=for-the-badge&logoColor=white" alt="Resume" />
 </a>
 
@@ -56,7 +56,7 @@ I'm a final-year Electronics & Telecommunication Engineering student turned aspi
 | **Music Store Sales Analysis** | SQL | Business insights using joins and aggregations |
 | **ICC CWC 2023 Performance Dashboard** | Excel | Interactive Pivot Table dashboard for tournament data |
 
-🔗 See full write-ups on my [**Portfolio Website**][(https://vikas-analytics.github.io/portfolio/)](https://vikas-analytics.github.io/vikas-analytics/)
+🔗 See full write-ups on my [**Portfolio Website**](https://vikas-analytics.github.io/portfolio/)
 
 ---
 
