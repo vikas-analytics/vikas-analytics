@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-2E5FA3?style=for-the-badge&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
-<a href="https://vikas-analytics.github.io/portfolio/resume.pdf">
+<a href="https://vikas-analytics.github.io/vikas-analytics/resume.pdf">
   <img src="https://img.shields.io/badge/📄_DOWNLOAD_RESUME-1F2A44?style=for-the-badge&logoColor=white" alt="Resume" /> 
 </a>
 
