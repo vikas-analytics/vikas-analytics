@@ -18,7 +18,7 @@
 
 ### About Me
 
-I'm a final-year Electronics & Telecommunication Engineering student turned aspiring **Data Analyst** and **Data Science enthusiast**. I clean messy data, build dashboards, and turn raw numbers into decisions a non-technical stakeholder can act on in thirty seconds. Long-term, I'm working toward a career in Data Science.
+I'm a final-year Engineering student turned aspiring **Data Analyst** and **Data Science enthusiast**. I clean messy data, build dashboards, and turn raw numbers into decisions a non-technical stakeholder can act on in thirty seconds. Long-term, I'm working toward a career in Data Science.
 
 - 🔭 Currently building real-world analytics projects in SQL, Python, and Power BI
 - 🌱 Learning ETL pipelines, data warehousing, and automation
