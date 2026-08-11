@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Vikas%20Chaurasiya%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header banner" width="100%" />
 
-### Aspiring Data Analyst &nbsp;|&nbsp; Data Science Enthusiast
+### |&nbsp; Data Science Enthusiast
 
 <a href= "https://vikas-analytics.github.io/vikas-analytics/">
   <img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-2E5FA3?style=for-the-badge&logoColor=white" alt="Portfolio" />
