@@ -26,10 +26,11 @@ Experienced in data cleaning, EDA, statistical analysis, visualization, and inte
 
 🚀 Continuously exploring Machine Learning, AI, and advanced data-driven technologies to solve real-world problems.
 
-- 🔭 Currently building real-world analytics projects in SQL, Python, and Power BI
-- 🌱 Learning ETL pipelines, data warehousing, and automation
-- 📊 5 hands-on projects shipped — dashboards, EDA pipelines,feature engineering and SQL analysis,Data automation
-- 📫 Reach me at **vikas.analytics08@gmail.com**
+🔭 Building real-world Data Science projects using Python, SQL, and Power BI
+🌱 Learning Machine Learning, Statistics, Regression, Feature Engineering, and Model Evaluation
+📊 Working on EDA, Data Preprocessing, Data Visualization, and Predictive Modeling
+🚀 Exploring Supervised & Unsupervised Learning, Classification, Regression, and ML Algorithms
+📫 Reach me at **vikas.analytics08@gmail.com**
 
 ---
 
