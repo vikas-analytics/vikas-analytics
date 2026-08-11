@@ -18,12 +18,17 @@
 
 ### About Me
 
-I'm a final-year Engineering student turned aspiring **Data Analyst** and **Data Science enthusiast**. I clean messy data, build dashboards, and turn raw numbers into decisions a non-technical stakeholder can act on in thirty seconds. Long-term, I'm working toward a career in Data Science.
+👋 Hi, I'm Vikas Chaurasiya
+
+I’m passionate about Data Science, focused on turning complex datasets into meaningful insights and intelligent solutions.
+Skilled in Python, SQL, Power BI, Excel, Pandas, NumPy, Matplotlib, and Seaborn for data analysis and visualization.
+Experienced in data cleaning, EDA, statistical analysis, visualization, and interactive dashboard development.
+
+🚀 Continuously exploring Machine Learning, AI, and advanced data-driven technologies to solve real-world problems.
 
 - 🔭 Currently building real-world analytics projects in SQL, Python, and Power BI
 - 🌱 Learning ETL pipelines, data warehousing, and automation
-- 📊 5 hands-on projects shipped — dashboards, EDA pipelines, and SQL analysis
-- 🎓 B.E. Electronics & Telecommunication Engineering, Mumbai University (Expected 2027)
+- 📊 5 hands-on projects shipped — dashboards, EDA pipelines,feature engineering and SQL analysis,Data automation
 - 📫 Reach me at **vikas.analytics08@gmail.com**
 
 ---
