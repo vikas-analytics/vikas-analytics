@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Vikas%20Chaurasiya%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header banner" width="100%" />
 
-### |&nbsp;|Aspiring Data Scientist🚀 | Machine Learning Enthusiast🔥
+### |&nbsp;Aspiring Data Scientist🚀 | Machine Learning Enthusiast🔥
 
 <a href= "https://vikas-analytics.github.io/vikas-analytics/">
   <img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-2E5FA3?style=for-the-badge&logoColor=white" alt="Portfolio" />
@@ -56,7 +56,7 @@ Experienced in data cleaning, EDA, statistical analysis, visualization, and inte
 | Project | Tools | Description |
 |---|---|---|
 | **End to End FIFA WC Analysis 1930 - 2022** | Jupyter Notebook | Project using Python, Pandas, Matplotlib, Seaborn |
-| **End-to-End Titanic Data Analysis Project ** | Jupyter Notebook | Data insights and Visualized survival trends across passenger demographics |
+| **End-to-End Titanic Data Analysis Project** | Jupyter Notebook | Data insights and Visualized survival trends across passenger demographics |
 | **Diwali Sales Analysis** | Python | Data cleaning, EDA, and visualization of festive sales |
 | **Music Store Sales Analysis** | SQL | Business insights using joins and aggregations |
 | **Global Defence Analytics Dashboard** | Power BI | Interactive KPI dashboard with dynamic slicers |
