@@ -63,9 +63,7 @@ Experienced in data cleaning, EDA, statistical analysis, visualization, and inte
 | **Global Defence Analytics Dashboard** | Power BI | Interactive KPI dashboard with dynamic slicers |
 
 
-### One important suggestion
 
-I **wouldn't use made-up percentages** like `Python 30%, ML 25%` unless those numbers actually represent something measurable. For a profile README, your original image's pie chart looks good, but for your profile I'd make the visualization about your **workflow and skill areas**, rather than pretending the percentages are exact.
 
 
 
