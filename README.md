@@ -50,11 +50,12 @@ I'm a final-year Engineering student turned aspiring **Data Analyst** and **Data
 
 | Project | Tools | Description |
 |---|---|---|
+| **End to End FIFA WC Analysis 1930 - 2022** | Jupyter Notebook | Project using Python, Pandas, Matplotlib, Seaborn |
 | **Global Defence Analytics Dashboard** | Power BI | Interactive KPI dashboard with dynamic slicers |
-| **Titanic Survival Analytics Dashboard** | Power BI | Visualized survival trends across passenger demographics |
+| **End-to-End Titanic Data Analysis Project ** | Jupyter Notebook | Data insights and Visualized survival trends across passenger demographics |
 | **Diwali Sales Analysis** | Python | Data cleaning, EDA, and visualization of festive sales |
 | **Music Store Sales Analysis** | SQL | Business insights using joins and aggregations |
-| **ICC CWC 2023 Performance Dashboard** | Excel | Interactive Pivot Table dashboard for tournament data |
+| **Global Defence Analytics Dashboard** | Power BI | Interactive KPI dashboard with dynamic slicers |
 
 🔗 See full write-ups on my [**Portfolio Website**](https://vikas-analytics.github.io/vikas-analytics/)
 
