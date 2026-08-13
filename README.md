@@ -71,8 +71,7 @@ Experienced in data cleaning, EDA, statistical analysis, and visualization — a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vikas-analytics&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-analytics&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top Languages" />
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-analytics&hide_border=true&theme=default" alt="GitHub Streak" />
 
